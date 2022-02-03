@@ -19,7 +19,7 @@ public class sdsd {
         }
         int fm1 = factorial(n - 1);
 //        System.out.println(fm1 + " "+n);
-        System.out.println("->"+fm1);
+       // System.out.println("->"+fm1);
         int f = fm1 + n;
         System.out.println(f);
         return f;
